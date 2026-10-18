@@ -6,7 +6,7 @@
 - 📫 How to reach me: carolly.garcia@gmail.com
 - ⚡ Like Pilates and matcha... yeah, I know, very cliché.
 
-<img src="https://komarev.com/ghpvc/?username=carolly3024&label=Profile%20views&color=7c3aed&style=flat" />
+![Profile views](https://komarev.com/ghpvc/?username=carolly3024&color=blueviolet)
 
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,python,git,github&theme=light" />
