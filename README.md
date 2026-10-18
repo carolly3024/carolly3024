@@ -38,4 +38,6 @@
 
 ### ⚡ Recent activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/carolly3024/Astraloom/pull/1) in [carolly3024/Astraloom](https://github.com/carolly3024/Astraloom)
+2. 💪 Opened PR [#1](https://github.com/carolly3024/Astraloom/pull/1) in [carolly3024/Astraloom](https://github.com/carolly3024/Astraloom)
 <!--END_SECTION:activity-->
