@@ -1,10 +1,11 @@
 ## Hi there, I´m Carolly!👋
 
 - 🔭 I’m currently working on ui/ux Design
-- 🌱 I’m currently learning code
+- 🌱 Always learning
 - 🤔 I’m looking for help with the code
 - 📫 How to reach me: carolly.garcia@gmail.com
-- ⚡ Fun fact: I like broccoli 
+- ⚡ Like Pilates and matcha... yeah, I know, very cliché.
+
 
 
 <picture>
