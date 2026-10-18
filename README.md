@@ -6,22 +6,36 @@
 - 📫 How to reach me: carolly.garcia@gmail.com
 - ⚡ Like Pilates and matcha... yeah, I know, very cliché.
 
+<img src="https://komarev.com/ghpvc/?username=carolly3024&label=Profile%20views&color=7c3aed&style=flat" />
+
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,python,git,github&theme=light" />
 
 ### 📊 GitHub stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=carolly3024&show_icons=true&hide=contribs&include_all_commits=true&show=prs_merged,reviews&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=carolly3024&show_icons=true&hide=contribs,stars,prs,issues&include_all_commits=true&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=carolly3024&show_icons=true&hide=contribs&include_all_commits=true&show=prs_merged,reviews&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=carolly3024&show_icons=true&hide=contribs,stars,prs,issues&include_all_commits=true&hide_border=true" />
 </picture>
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carolly3024&layout=compact&langs_count=6&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolly3024&layout=compact&langs_count=6&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolly3024&layout=compact&langs_count=6&hide_border=true" />
 </picture>
+
+### 🔥 Streak
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=carolly3024&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://streak-stats.demolab.com?user=carolly3024&hide_border=true" />
+</picture>
+
+### ⚡ Recent activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
